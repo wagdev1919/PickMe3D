@@ -18,6 +18,9 @@ pickme3d is a client program of an on-line furniture store. This program can hel
 	* Importing 3DS file
 	* OpenGL Rendering
 
+# Supported langages
+	English, Thai
+
 
 
 
